@@ -7,7 +7,7 @@ mail=jenna.lihavainen@umu.se
 
 in=/proj/uppoff2019006/senescence-RNA-Seq/results/raw
 out=/proj/uppoff2019006/senescence-RNA-Seq/results
-start=2
+start=3
 end=6
 
 module load bioinfo-tools FastQC trimmomatic SortMeRNA/2.1b
