@@ -3,13 +3,13 @@
 ## be verbose and print
 set -ex
 
-proj=snic2018-8-303
-mail=nicolas.delhomme@umu.se
+proj=snic2017-7-326
+mail=jenna.lihavainen@umu.se
 
 ## process the argument (just change in and out)
-in=proj/uppoff2019006/uppstore2018168/P12869_results/trimmomatic
+in=proj/uppoff2019006/senescence-RNA-Seq/results/trimmomatic
 ref=/proj/uppoff2019006/indices/Potra02/Potra02_v2dot2_transcripts_salmon-v14dot1.inx
-out=proj/uppoff2019006/uppstore2018168/P12869_results/salmon
+out=proj/uppoff2019006/senescence-RNA-Seq/results/salmon
 bind=/proj/uppoff2019006:/proj/uppoff2019006
 img=/proj/uppoff2019006/singularity/singularity/salmon-0.14.1.simg
 
