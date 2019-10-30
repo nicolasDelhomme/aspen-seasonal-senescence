@@ -7,7 +7,7 @@ proj=snic2019-8-310
 mail=jenna.lihavainen@umu.se
 
 ## process the argument (just change in and out)
-in=/proj/uppoff2019006/senescence-RNA-Seq/results/trimmomatics 
+in=/proj/uppoff2019006/senescence-RNA-Seq/results/trimmomatic 
 ref=/proj/uppoff2019006/indices/Potra02/Potra02_v2dot2_transcripts_salmon-v14dot1.inx
 out=/proj/snic2019-30-28/senescence-RNA-Seq/results/salmon
 bind=/proj/uppoff2019006:/proj/uppoff2019006
