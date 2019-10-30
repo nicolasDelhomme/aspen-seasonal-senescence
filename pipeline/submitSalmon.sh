@@ -7,11 +7,11 @@ proj=snic2017-7-326
 mail=jenna.lihavainen@umu.se
 
 ## process the argument (just change in and out)
-in=/proj/uppoff2019006/senescence-RNA-Seq/results/trimmomatic
+in=/proj/uppoff2019006/senescence-RNA-Seq/results/trimmomatics 
 ref=/proj/uppoff2019006/indices/Potra02/Potra02_v2dot2_transcripts_salmon-v14dot1.inx
 out=/proj/uppoff2019006/senescence-RNA-Seq/results/salmon
 bind=/proj/uppoff2019006:/proj/uppoff2019006
-img=/proj/uppoff2019006/singularity/singularity/salmon-0.14.1.simg
+img=/proj/uppoff2019006/singularity/salmon-0.14.1.simg
 
 ## create the out dir
 if [ ! -d $out ]; then
