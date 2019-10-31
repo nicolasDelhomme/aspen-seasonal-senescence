@@ -21,7 +21,7 @@ if [ ! -d $out ]; then
 fi
 
 ## execute
-sbatch -A $proj -t 2:00:00 --mail-user=$mail \
+sbatch -n 4 -A $proj -t 2:00:00 --mail-user=$mail \
 -e $out.err -o $out.out -J multiqc \
 ../UPSCb-common/pipeline/runMultiQC.sh $in $out
 
