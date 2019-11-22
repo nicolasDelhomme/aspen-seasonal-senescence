@@ -4,21 +4,16 @@
 set -ex
 
 ## source functions
-source $UPSCb/src/bash/functions.sh
+source ../UPSCb-common/src/bash/functions.sh
 
 ## vars
-proj=snic2018-8-303
-mail=nicolas.delhomme@umu.se
-in=/proj/uppoff2019006/uppstore2018168/P12869_results/
+proj=snic2019-8-310
+mail=jenna.lihavainen@umu.se
+in=/proj/uppoff2019006/senescence-RNA-Seq/results
 out=$in/multiqc
 
 ## tools
 module load bioinfo-tools MultiQC
-
-## check vars
-if [ -z $UPSCb ]; then
-    abort "The UPSCb var needs to be set."
-fi
 
 ## create the out dir
 if [ ! -d $out ]; then
@@ -26,7 +21,7 @@ if [ ! -d $out ]; then
 fi
 
 ## execute
-sbatch -A $proj -t 2:00:00 --mail-user=$mail \
+sbatch -n 4 -A $proj -t 2:00:00 --mail-user=$mail \
 -e $out.err -o $out.out -J multiqc \
-$UPSCb/pipeline/runMultiQC.sh $in $out
+../UPSCb-common/pipeline/runMultiQC.sh $in $out
 
