@@ -16,5 +16,5 @@ fi
 for f in $(find $in -name "P12255_1*_trimmomatic_[1,2].fq.gz"); 
 do
   sbatch -A $proj -p core -n 1 -e $out/${f//.fq.gz/.err} \
-  -o $out/${f//.fq.gz/.out} -t 1:00:00 runSubsampling.sh $f $MREADS $out
+  -o $out/${f//.fq.gz/.out} -t 1:00:00 runSubSampling.sh $f $MREADS $out
 done
