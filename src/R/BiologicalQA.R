@@ -1,6 +1,6 @@
 #' ---
-#' title: "CHANGEME Biological QA"
-#' author: "CHANGEME"
+#' title: "Aspen senescence biological QA"
+#' author: "Nicolas Delhomme & Jenna Lihavainen"
 #' date: "`r Sys.Date()`"
 #' output:
 #'  html_document:
@@ -9,22 +9,22 @@
 #' ---
 #' # Setup
 #' * Libraries
-suppressPackageStartupMessages(library(data.table))
-suppressPackageStartupMessages(library(DESeq2))
-suppressPackageStartupMessages(library(gplots))
-suppressPackageStartupMessages(library(here))
-suppressPackageStartupMessages(library(hyperSpec))
-suppressPackageStartupMessages(library(parallel))
-suppressPackageStartupMessages(library(pander))
-suppressPackageStartupMessages(library(plotly))
-suppressPackageStartupMessages(library(RColorBrewer))
-suppressPackageStartupMessages(library(scatterplot3d))
-suppressPackageStartupMessages(library(tidyverse))
-suppressPackageStartupMessages(library(tximport))
-suppressPackageStartupMessages(library(vsn))
+suppressPackageStartupMessages({
+  library(DESeq2)
+  library(gplots)
+  library(here)
+  library(hyperSpec)
+  library(parallel)
+  library(pander)
+  library(plotly)
+  library(RColorBrewer)
+  library(scatterplot3d)
+  library(tidyverse)
+  library(tximport)
+  library(vsn)
+})
 
 #' * Helper functions
-source(here("UPSCb-common/src/R/plot.multidensity.R"))
 source(here("UPSCb-common/src/R/featureSelection.R"))
 
 #' * Graphics
@@ -59,7 +59,7 @@ samples <- read_csv(here("doc/CHANGE-ME.csv"),
 #' # If your species has only one transcript per gene, e.g. Picea abies v1, then
 #' # comment the next line
 #' ```
-tx2gene <- suppressMessages(read_delim(here("reference/annotation/CHANGE-ME"),delim="\t",
+tx2gene <- suppressMessages(read_delim(here("reference/annotation/tx2gene.tsv"),delim="\t",
                                  col_names=c("TXID","GENE")))
 
 #' # Raw data
@@ -105,7 +105,7 @@ sprintf("%s%% percent (%s) of %s genes are not expressed",
 dat <- tibble(x=colnames(counts),y=colSums(counts)) %>% 
   bind_cols(samples)
 
-ggplot(dat,aes(x,y,fill=CHANGEME)) + geom_col() + 
+ggplot(dat,aes(x,y,fill=CHANGEMEsampleID)) + geom_col() + 
   scale_y_continuous(name="reads") +
   theme(axis.text.x=element_text(angle=90,size=4),axis.title.x=element_blank())
 
@@ -115,7 +115,7 @@ ggplot(dat,aes(x,y,fill=CHANGEME)) + geom_col() +
 #' and displayed on a log10 scale.
 #' 
 #' The cumulative gene coverage is as expected
-ggplot(melt(log10(rowMeans(counts))),aes(x=value)) + 
+ggplot(data.frame(value=log10(rowMeans(counts))),aes(x=value)) + 
   geom_density() + ggtitle("gene mean raw counts distribution") +
   scale_x_continuous(name="mean raw counts (log10)")
 
