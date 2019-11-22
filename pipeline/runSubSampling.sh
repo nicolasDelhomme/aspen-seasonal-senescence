@@ -28,4 +28,4 @@ if [ ! -d $3 ]; then
   abort "The output directory does not exist"
 fi
 
-gunzip -c $1 | head -n $(expr $2 "*" 4) | gzip -c > $3/$(basename $1)
+gunzip -c $1 | head -n $(expr $2 "*" 4) | gzip -c > $3/$(basename ${1/.fq.gz/_sub_$2.fq.gz/)
