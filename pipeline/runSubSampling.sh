@@ -20,7 +20,7 @@ if [ ! -f $1 ]; then
   abort "The input file does not exist"
 fi
 
-if [ $2 < 1 ]; then
+if [ $2 -lt 1 ]; then
   abort "You need to select at least one line"
 fi
 
@@ -28,4 +28,4 @@ if [ ! -d $3 ]; then
   abort "The output directory does not exist"
 fi
 
-gunzip -c $1 | head -n $(expr $2 "*" 4) | gzip -c > $3/$(basename ${1/.fq.gz/_sub_$2.fq.gz/)
+gunzip -c $1 | head -n $(expr $2 "*" 4) | gzip -c > $3/$(basename ${1/.fq.gz/_sub_$2.fq.gz/})
