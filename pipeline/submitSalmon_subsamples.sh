@@ -20,12 +20,12 @@ fi
 
 ## for every file
 for f in $(find $in -name "*sortmerna_trimmomatic_1_sub_20000000.fq.gz"); do
-  fnam=$(basename ${f/_1.fq.gz/})
+  fnam=$(basename ${f/_1_sub_20000000.fq.gz/})
 
   ## execute
   sbatch -A $proj --mail-user=$mail \
   -e $out/$fnam.err -o $out/$fnam.out -J salmon.$fnam \
   ../UPSCb-common/pipeline/runSalmon.sh -b $bind \
-  -i $img $ref $f $in/${fnam}_2.fq.gz $out
+  -i $img $ref $f $in/${fnam}_2_sub_20000000.fq.gz $out
 
 done
