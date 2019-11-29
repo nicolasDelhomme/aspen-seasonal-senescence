@@ -19,8 +19,8 @@ if [ ! -d $out ]; then
 fi
 
 ## for every file
-for f in $(find $in -name "*sortmerna_trimmomatic_1.fq.gz"); do
-  fnam=$(basename ${f/_1.fq.gz/})
+for f in $(find $in -name "*sortmerna_trimmomatic_1_sub_20000000.fq.gz"); do
+  fnam=$(basename ${f/_1_sub_20000000.fq.gz/})
 
   ## execute
   sbatch -A $proj --mail-user=$mail \
