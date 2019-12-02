@@ -7,7 +7,7 @@ set -ex
 source ../UPSCb-common/src/bash/functions.sh
 
 ## vars
-proj=snic2019-8-310
+proj=snic2019-8-324
 mail=jenna.lihavainen@umu.se
 in=/proj/snic2019-30-28/senescence-RNA-Seq/results/salmon/subsample
 out=$in/multiqc
