@@ -9,8 +9,8 @@ source ../UPSCb-common/src/bash/functions.sh
 ## vars
 proj=snic2019-8-324
 mail=jenna.lihavainen@umu.se
-in=/proj/snic2019-30-28/senescence-RNA-Seq/results/salmon/subsample
-out=$in/multiqc
+in=/proj/snic2019-30-28/senescence-RNA-Seq/results/
+out=$in/multiqc/subsample
 
 ## tools
 module load bioinfo-tools MultiQC
