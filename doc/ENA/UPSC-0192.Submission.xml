@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SUBMISSION_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<SUBMISSION alias="UPSC-0192" center_name="UPSC">
+<ACTIONS>
+<ACTION>
+<ADD source="/mnt/picea/home/delhomme/Git/UPSCb/ENA/submission/UPSC-0192.Project.xml" schema="project"/>
+</ACTION>
+<ACTION>
+<HOLD HoldUntilDate="2024-03-18"/>
+</ACTION>
+</ACTIONS>
+</SUBMISSION>
+</SUBMISSION_SET>

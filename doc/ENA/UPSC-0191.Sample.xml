@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SAMPLE_SET xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ftp://webin.ebi.ac.uk/meta/xsd/sra_1_5/SRA.sample.xsd">
+ <SAMPLE alias="UPSC-0191-S0001" center_name="UPSC">
+  <TITLE>75</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0002" center_name="UPSC">
+  <TITLE>78</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0003" center_name="UPSC">
+  <TITLE>80</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0004" center_name="UPSC">
+  <TITLE>84.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 225 at 4 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0005" center_name="UPSC">
+  <TITLE>84.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 225 at 4 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0006" center_name="UPSC">
+  <TITLE>85.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 225 at 4 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0007" center_name="UPSC">
+  <TITLE>85.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 225 at 4 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0008" center_name="UPSC">
+  <TITLE>90</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0009" center_name="UPSC">
+  <TITLE>91</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0010" center_name="UPSC">
+  <TITLE>96.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 225 at 4 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0011" center_name="UPSC">
+  <TITLE>96.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 225 at 4 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0012" center_name="UPSC">
+  <TITLE>100</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 225 at 4 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0013" center_name="UPSC">
+  <TITLE>117.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 232 at 6 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0014" center_name="UPSC">
+  <TITLE>117.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 232 at 6 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0015" center_name="UPSC">
+  <TITLE>119.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 232 at 6 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0016" center_name="UPSC">
+  <TITLE>119.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 232 at 6 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0017" center_name="UPSC">
+  <TITLE>126.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 232 at 6 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0018" center_name="UPSC">
+  <TITLE>126.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 232 at 6 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0019" center_name="UPSC">
+  <TITLE>132</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0020" center_name="UPSC">
+  <TITLE>133</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0021" center_name="UPSC">
+  <TITLE>137</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0022" center_name="UPSC">
+  <TITLE>139</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0023" center_name="UPSC">
+  <TITLE>142</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0024" center_name="UPSC">
+  <TITLE>145</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 232 at 6 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0025" center_name="UPSC">
+  <TITLE>147</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0026" center_name="UPSC">
+  <TITLE>149</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0027" center_name="UPSC">
+  <TITLE>151</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0028" center_name="UPSC">
+  <TITLE>152</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0029" center_name="UPSC">
+  <TITLE>155.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 237 at 7 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0030" center_name="UPSC">
+  <TITLE>155.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 237 at 7 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0031" center_name="UPSC">
+  <TITLE>164</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0032" center_name="UPSC">
+  <TITLE>166.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 237 at 7 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0033" center_name="UPSC">
+  <TITLE>166.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 237 at 7 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0034" center_name="UPSC">
+  <TITLE>167</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0035" center_name="UPSC">
+  <TITLE>169</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0036" center_name="UPSC">
+  <TITLE>170</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0037" center_name="UPSC">
+  <TITLE>172.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 241 at 8 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0038" center_name="UPSC">
+  <TITLE>172.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 241 at 8 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0039" center_name="UPSC">
+  <TITLE>176</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0040" center_name="UPSC">
+  <TITLE>183.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 237 at 7 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0041" center_name="UPSC">
+  <TITLE>183.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 237 at 7 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0042" center_name="UPSC">
+  <TITLE>187</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0043" center_name="UPSC">
+  <TITLE>188</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0044" center_name="UPSC">
+  <TITLE>190</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 237 at 7 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0045" center_name="UPSC">
+  <TITLE>192</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0046" center_name="UPSC">
+  <TITLE>193</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 241 at 8 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0047" center_name="UPSC">
+  <TITLE>197.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 241 at 8 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0048" center_name="UPSC">
+  <TITLE>197.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 241 at 8 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0049" center_name="UPSC">
+  <TITLE>201</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0050" center_name="UPSC">
+  <TITLE>204</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0051" center_name="UPSC">
+  <TITLE>205</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0052" center_name="UPSC">
+  <TITLE>207</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0053" center_name="UPSC">
+  <TITLE>208</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0054" center_name="UPSC">
+  <TITLE>210.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 246 at 9 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0055" center_name="UPSC">
+  <TITLE>210.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 246 at 9 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0056" center_name="UPSC">
+  <TITLE>213</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0057" center_name="UPSC">
+  <TITLE>214</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0058" center_name="UPSC">
+  <TITLE>216</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0059" center_name="UPSC">
+  <TITLE>218</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 246 at 9 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0060" center_name="UPSC">
+  <TITLE>222</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0061" center_name="UPSC">
+  <TITLE>224</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0062" center_name="UPSC">
+  <TITLE>226.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 250 at 10 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0063" center_name="UPSC">
+  <TITLE>226.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 250 at 10 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0064" center_name="UPSC">
+  <TITLE>229</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0065" center_name="UPSC">
+  <TITLE>234.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 250 at 10 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0066" center_name="UPSC">
+  <TITLE>234.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 250 at 10 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0067" center_name="UPSC">
+  <TITLE>237</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0068" center_name="UPSC">
+  <TITLE>243</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 250 at 10 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0069" center_name="UPSC">
+  <TITLE>244</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0070" center_name="UPSC">
+  <TITLE>247</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0071" center_name="UPSC">
+  <TITLE>248.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 264 at 14 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0072" center_name="UPSC">
+  <TITLE>248.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 264 at 14 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0073" center_name="UPSC">
+  <TITLE>249</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0074" center_name="UPSC">
+  <TITLE>251</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0075" center_name="UPSC">
+  <TITLE>253.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 253 at 11 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0076" center_name="UPSC">
+  <TITLE>253.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 253 at 11 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0077" center_name="UPSC">
+  <TITLE>254</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0078" center_name="UPSC">
+  <TITLE>258</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0079" center_name="UPSC">
+  <TITLE>266</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0080" center_name="UPSC">
+  <TITLE>268</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0081" center_name="UPSC">
+  <TITLE>270</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0082" center_name="UPSC">
+  <TITLE>271.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 246 at 9 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0083" center_name="UPSC">
+  <TITLE>271.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 246 at 9 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0084" center_name="UPSC">
+  <TITLE>279</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0085" center_name="UPSC">
+  <TITLE>280</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 253 at 11 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0086" center_name="UPSC">
+  <TITLE>283</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0087" center_name="UPSC">
+  <TITLE>286</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0088" center_name="UPSC">
+  <TITLE>288</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0089" center_name="UPSC">
+  <TITLE>290.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 256 at 12 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0090" center_name="UPSC">
+  <TITLE>290.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 256 at 12 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0091" center_name="UPSC">
+  <TITLE>298.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 256 at 12 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0092" center_name="UPSC">
+  <TITLE>298.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 256 at 12 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0093" center_name="UPSC">
+  <TITLE>301</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 256 at 12 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0094" center_name="UPSC">
+  <TITLE>303.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 264 at 14 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0095" center_name="UPSC">
+  <TITLE>303.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 264 at 14 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0096" center_name="UPSC">
+  <TITLE>331</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0097" center_name="UPSC">
+  <TITLE>333</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0098" center_name="UPSC">
+  <TITLE>336</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0099" center_name="UPSC">
+  <TITLE>337</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0100" center_name="UPSC">
+  <TITLE>341.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 264 at 14 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0101" center_name="UPSC">
+  <TITLE>341.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 264 at 14 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0102" center_name="UPSC">
+  <TITLE>347</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 264 at 14 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0103" center_name="UPSC">
+  <TITLE>371</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 1_14 of genotype 1 from block 3 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0104" center_name="UPSC">
+  <TITLE>372</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 4_5 of genotype 81 from block 1 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0105" center_name="UPSC">
+  <TITLE>374</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_17 of genotype 81 from block 3 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0106" center_name="UPSC">
+  <TITLE>379</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 7_8 of genotype 81 from block 2 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0107" center_name="UPSC">
+  <TITLE>382.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 270 at 16 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0108" center_name="UPSC">
+  <TITLE>382.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_7 of genotype 48 from block 7 collected on day of year 270 at 16 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0109" center_name="UPSC">
+  <TITLE>383.1</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 270 at 16 o'clock technical replicate number 1</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0110" center_name="UPSC">
+  <TITLE>383.2</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 11_14 of genotype 48 from block 4 collected on day of year 270 at 16 o'clock technical replicate number 2</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0111" center_name="UPSC">
+  <TITLE>384</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 9_22 of genotype 48 from block 6 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0112" center_name="UPSC">
+  <TITLE>388</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 3_28 of genotype 1 from block 5 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+ <SAMPLE alias="UPSC-0191-S0113" center_name="UPSC">
+  <TITLE>394</TITLE>
+  <SAMPLE_NAME>
+   <TAXON_ID>113636</TAXON_ID>
+   <SCIENTIFIC_NAME>Populus tremula</SCIENTIFIC_NAME>
+   <COMMON_NAME>European aspen</COMMON_NAME>
+  </SAMPLE_NAME>
+  <DESCRIPTION>Tree 16_21 of genotype 1 from block 8 collected on day of year 270 at 16 o'clock</DESCRIPTION>
+ </SAMPLE>
+</SAMPLE_SET>
